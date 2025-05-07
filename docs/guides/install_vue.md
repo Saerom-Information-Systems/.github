@@ -21,6 +21,12 @@
 
 4. 환경변수 파일 `.env` 생성
 
+
+# Vue build 파일 배포 경로
+
+- {Domino 설치경로}/notesdata/domino/html
+   - ex) /local/notesdata/domino/html
+
 # 대상 프로젝트
 
 ## 1. vue_portal
