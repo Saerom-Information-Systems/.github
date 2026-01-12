@@ -1,1 +1,1 @@
-# .github
+# [1. 프로젝트 초기 설정 가이드](./docs/README.md)
